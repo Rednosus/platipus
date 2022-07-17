@@ -24,3 +24,8 @@ pico-speaker
 bf-holding-gf
 pico-player
 tankman-player
+bfscared
+doof
+perry
+perryner
+pibbybf
